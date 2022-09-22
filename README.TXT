@@ -1,4 +1,4 @@
-DOSBOX prime sieve of eratosthenes
+DOSBOX sieve of eratosthenes
 
 Usage: PRIMES [n]
 Description: Sieves primes from 1..n, stores result in PRIMES.TXT
