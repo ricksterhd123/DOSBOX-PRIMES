@@ -66,8 +66,7 @@ int prime_factors(int n, int* primes) {
 }
 
 int main(int argc, char** argv) {
-    int i, n_primes;
-    int n;
+    int i, n, n_primes;
     FILE* pFile = fopen("primes.txt", "w");
     int* primes;
 
